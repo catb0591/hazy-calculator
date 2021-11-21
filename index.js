@@ -36,6 +36,3 @@ const result = (variable1, operand, variable2) => {
 }
 
 module.exports = calculate
-
-console.log(calculate(['1', '+', '5']))
-console.log(1 + 1)
